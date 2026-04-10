@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7622e996fc1300e4eb8e18a545cd9a51
+timeCreated: 1477853344
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 59604
+  packageName: Sand Pillar
+  packageVersion: 1.0
+  assetPath: Assets/Sand Pillar/Prefab/Sand_Pillar.prefab
+  uploadId: 144433
