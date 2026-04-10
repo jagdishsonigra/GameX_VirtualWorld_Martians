@@ -25,7 +25,7 @@ Most VR horror games rely on linear puzzles and jump scares.
 - 🧩 Perception-based puzzles
 - 🎭 Illusion vs Reality mechanics
 
-VR is not just the platform — **it is the core mechanic**. :contentReference[oaicite:1]{index=1}
+VR is not just the platform — **it is the core mechanic**. 
 
 ---
 
@@ -37,7 +37,7 @@ VR is not just the platform — **it is the core mechanic**. :contentReference[o
 4. 🧠 Interpret illusion vs reality  
 5. 🔓 Solve puzzles and progress  
 
-Players navigate a **shifting labyrinth** and uncover hidden truths through interaction and observation. :contentReference[oaicite:2]{index=2}
+Players navigate a **shifting labyrinth** and uncover hidden truths through interaction and observation.
 
 ---
 
@@ -48,7 +48,7 @@ Players navigate a **shifting labyrinth** and uncover hidden truths through inte
 - Solve puzzles before **time runs out**
 
 ✔️ Win: Open the correct final chest  
-❌ Lose: Time expires :contentReference[oaicite:3]{index=3}
+❌ Lose: Time expires 
 
 ---
 
@@ -63,8 +63,7 @@ Players navigate a **shifting labyrinth** and uncover hidden truths through inte
 - Grab & rotate objects  
 - Place puzzle elements  
 - Wear / remove mask (reality switch)  
-- Free movement in VR space :contentReference[oaicite:4]{index=4}
-
+- Free movement in VR space 
 ---
 
 ## 🚀 Innovation & USP
@@ -74,7 +73,7 @@ Players navigate a **shifting labyrinth** and uncover hidden truths through inte
 - 🧠 **Perception-Based Puzzle Design**  
 - 😨 **Psychological Horror (not jumpscares)**  
 - ⏳ **Timed Cognitive Pressure**  
-- 🌍 **Environmental Storytelling** :contentReference[oaicite:5]{index=5}
+- 🌍 **Environmental Storytelling** 
 
 ---
 
@@ -85,7 +84,7 @@ Players navigate a **shifting labyrinth** and uncover hidden truths through inte
 - 🕶️ Meta Quest (2, 3, 3s)  
 - 💻 C#  
 - 🎨 Photoshop  
-- 🧱 Blender :contentReference[oaicite:6]{index=6}
+- 🧱 Blender 
 
 ---
 
@@ -97,7 +96,7 @@ Players navigate a **shifting labyrinth** and uncover hidden truths through inte
 - Optimized for **120+ FPS VR performance** using:
   - Static batching  
   - Baked lighting  
-  - Occlusion culling :contentReference[oaicite:7]{index=7}
+  - Occlusion culling 
 
 ---
 
