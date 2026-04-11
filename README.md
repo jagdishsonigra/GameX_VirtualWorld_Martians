@@ -138,12 +138,12 @@ Players must constantly question:
 
 > *Game Screenshots*
 
-```
+
 ![Mansion Entrance](images/1.png)
 ![Mask View (Red World)](images/2.png)
 ![Puzzle Room](images/3.png)
 ![Final Chest](images/4.png)
-```
+
 
 ---
 
